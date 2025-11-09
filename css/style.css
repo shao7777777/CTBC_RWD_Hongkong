@@ -310,6 +310,12 @@
     }
 }
 
+@media (max-width:576px) {
+    .feature .feature-img {
+            width: 45%;
+        }
+}
+
 /* travel-tourist */
 .grid-container {
     display: grid;

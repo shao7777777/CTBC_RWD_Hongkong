@@ -111,3 +111,12 @@ section {
     transform: translateY(-3px);
     border-radius: 10px;
 }
+
+@media (max-width:576px) {
+    .link-hover:hover {
+        background: #ffffff;
+        box-shadow: 0 0 5px rgb(0, 0, 0, 0.05);
+        transform: translateY(-1px);
+        border-radius: 0px;
+    }
+}
