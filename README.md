@@ -1,2 +1,2 @@
 # CTBC_RWD_Hongkong
-RWD響應式網頁
+RWD響應式一頁式網頁
