@@ -1,0 +1,113 @@
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+section {
+    display: block;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-inline-flex {
+    display: inline-flex;
+}
+
+/* 高度置中 */
+.align-items-center {
+    align-items: center;
+}
+
+/* 水平置中 */
+.justify-content-cneter {
+    justify-content: center;
+}
+
+/* 靠右對齊 */
+.justify-content-end {
+    justify-content: end;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.bg-gray {
+    background: #F7F7F7;
+}
+
+.section-space {
+    padding-top: 40px;
+    /* padding-bottom: 40px; */
+}
+
+@media (min-width:768px) {
+    .section-space {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+}
+
+@media (min-width:1200px) {
+    .section-space {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+}
+
+/* about + travel + news*/
+.section-title .subtitle {
+    display: inline-block;
+    width: 80px;
+    height: 0.5px;
+    background: #50ACFF;
+}
+
+.section-title .title {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #50ACFF;
+    font-weight: bold;
+    font-size: 2.4rem;
+}
+
+/* button */
+.button {
+    display: block;
+    padding: 10px 40px;
+    margin: 20px 0 30px;
+    background: #E6E6E6;
+    border: none;
+    border-radius: 30px;
+    color: black;
+    text-align: center;
+    width: fit-content;
+    /*寬度由文字長度決定*/
+}
+
+.button:hover {
+    background: linear-gradient(135deg, rgba(70, 180, 255, 1) 0%, rgba(7, 237, 255, 1) 100%);
+    text-decoration: none;
+    color: white;
+}
+
+
+/* 滑入效果 */
+.link-hover {
+    /* 動畫過場效果 */
+    transition: transform 0.5s;
+}
+
+.link-hover:hover {
+    background: #ffffff;
+    box-shadow: 0 0 15px rgb(0, 0, 0, 0.05);
+    transform: translateY(-3px);
+    border-radius: 10px;
+}
