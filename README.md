@@ -16,7 +16,8 @@
 
 專案架構 (Project Structure)
 ---
-<img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/27a1b0a1-3c15-49ce-a696-84b6a4f9c594" />
+<img width="400" height="387" alt="image" src="https://github.com/user-attachments/assets/2f3540fb-3a1b-4ecb-9e27-6fa944fc2d9b" />
+
 
 介面預覽 (Preview)
 ---
