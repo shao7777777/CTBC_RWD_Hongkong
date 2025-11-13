@@ -1,5 +1,4 @@
-# CTBC_RWD_Hongkong
-**RWD 基礎實踐：香港旅遊一頁式網站**
+# RWD 基礎實踐：香港旅遊一頁式網站
 
 專案說明 (Project Description)
 ---
@@ -23,7 +22,6 @@
 ---
 <img width="1024" height="855" alt="image" src="https://github.com/user-attachments/assets/2c0df1f0-f7db-4a4a-8855-835d419b59f0" />
 <img width="375" height="713" alt="image" src="https://github.com/user-attachments/assets/7e85965e-70bd-4118-aade-82ad42605575" />
-
 
 連結 (Links)
 ---
