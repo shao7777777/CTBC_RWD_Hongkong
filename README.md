@@ -2,7 +2,7 @@
 
 專案說明 (Project Description)
 ---
-此專案旨在利用純 HTML 與 CSS 實作一個單頁式 (One-Page) 的響應式網頁。內容以香港旅遊作為主題，專注於基礎的**網頁結構**、**視覺呈現**以及**跨裝置的介面適應性**。排版上輔以 **Bootstrap** 框架，確保介面元件的標準化與開發效率。
+此專案旨在利用純 HTML 與 CSS 實作一個**單頁式** (One-Page) 的響應式網頁。內容以香港旅遊作為主題，專注於基礎的**網頁結構**、**視覺呈現**以及**跨裝置的介面適應性**。排版上輔以 **Bootstrap** 框架，確保介面元件的標準化與開發效率。
 
 核心技術與設計理念
 ---
@@ -16,8 +16,7 @@
 
 專案架構 (Project Structure)
 ---
-<img width="400" height="387" alt="image" src="https://github.com/user-attachments/assets/2f3540fb-3a1b-4ecb-9e27-6fa944fc2d9b" />
-
+<img width="450" height="248" alt="螢幕擷取畫面 2025-11-13 144843" src="https://github.com/user-attachments/assets/16b22aad-41e1-41d8-80a2-b643cf885f8a" />
 
 介面預覽 (Preview)
 ---
