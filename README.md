@@ -14,6 +14,7 @@ RWD 基礎實踐：香港旅遊一頁式網站
  - **代碼基礎**： 程式碼結構清晰，為後續更複雜的專案奠定基礎。
 
 專案架構 (Project Structure)
+
 <img width="400" height="221" alt="image" src="https://github.com/user-attachments/assets/27a1b0a1-3c15-49ce-a696-84b6a4f9c594" />
 
 介面預覽 (Preview)
@@ -22,5 +23,7 @@ RWD 基礎實踐：香港旅遊一頁式網站
 
 
 連結 (Links)
+
 [GitHub Page] https://shao7777777.github.io/CTBC_RWD_Hongkong/
+
 [GitHub Repository] https://github.com/shao7777777/CTBC_RWD_Hongkong.git
